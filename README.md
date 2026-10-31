@@ -1,7 +1,6 @@
 # Hey there 👋 I'm Andrés!
 
-I'm a backend-focused software engineer from Uruguay who enjoys building reliable systems, automating things, and solving real problems with clean code.
-
+I’m a backend-focused software engineer from Uruguay with a strong DevOps background, who enjoys building reliable systems, automating things, and solving real problems with clean code.
 ---
 
 ## 🚀 Right now I'm...
